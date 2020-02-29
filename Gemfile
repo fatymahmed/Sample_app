@@ -11,7 +11,7 @@ gem 'carrierwave',             '1.2.2'
 gem 'mini_magick',             '4.7.0'
 gem 'jbuilder', '2.7.0'
 gem 'jquery-rails', '4.3.1'
-gem 'puma', '3.9.1'
+gem 'puma', '3.12.3'
 gem 'rails', '5.1.6'
 gem 'rubocop', require: false
 gem 'sass-rails', '5.0.6'
